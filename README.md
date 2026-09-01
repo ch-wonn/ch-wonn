@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=Hello%20World!🖐️%20I'm%20Changwon!&animation=fadeIn&fontColor=000000&fontSize=40)
 
-# Data Science & Software @ SKKU | Interested in Data Engineering & Analytics
-
+# Data Science & Software @ SKKU
 Interested in **Data Engineering, Data Analytics, and building reliable data workflows.**
 
 ## 👋 About Me
