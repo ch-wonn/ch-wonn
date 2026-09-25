@@ -22,8 +22,10 @@ Interested in **Data Engineering, Data Analytics, and building reliable data wor
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ichangwon266@gmail.com)
 
-## 🏅 GitHub Stats
-
-![Changwon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Changwon-Leee&bg_color=180,00000000,&title_color=000000&text_color=000000)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Changwon-Leee&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000)
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=ch-wonn&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/ch-wonn"
+  width="600"
+  height="300"
+/>
+</a>
